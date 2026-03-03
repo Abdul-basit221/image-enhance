@@ -34,7 +34,5 @@ This project demonstrates:
 
 ---
 
-## 👤 abdul basit
-
-Your Name  
+## 👤 abdul basit 
 Mechatronics Engineering Student  
